@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartRocko", "SmartRocko\SmartRocko.csproj", "{1A9F9742-0150-4B56-869C-7EB05B7CB037}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RockoLocoPlayer", "RockoLocoPlayer\RockoLocoPlayer.csproj", "{022CE074-1018-4726-80E6-3A93457D613C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Animator", "Animator\Animator.csproj", "{97FE1093-38D3-4EEC-A602-340F792C9D25}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A9F9742-0150-4B56-869C-7EB05B7CB037}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A9F9742-0150-4B56-869C-7EB05B7CB037}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A9F9742-0150-4B56-869C-7EB05B7CB037}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A9F9742-0150-4B56-869C-7EB05B7CB037}.Release|Any CPU.Build.0 = Release|Any CPU
+		{022CE074-1018-4726-80E6-3A93457D613C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{022CE074-1018-4726-80E6-3A93457D613C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{022CE074-1018-4726-80E6-3A93457D613C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{022CE074-1018-4726-80E6-3A93457D613C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97FE1093-38D3-4EEC-A602-340F792C9D25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97FE1093-38D3-4EEC-A602-340F792C9D25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97FE1093-38D3-4EEC-A602-340F792C9D25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97FE1093-38D3-4EEC-A602-340F792C9D25}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 1
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://rockoloco.visualstudio.com/
+		SccProjectUniqueName0 = Animator\\Animator.csproj
+		SccProjectName0 = Animator
+		SccAuxPath0 = https://rockoloco.visualstudio.com
+		SccLocalPath0 = Animator
+		SccProvider0 = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+	EndGlobalSection
+EndGlobal

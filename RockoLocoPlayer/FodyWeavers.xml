@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Weavers>
+  <Costura IncludeDebugSymbols='true' DisableCompression='true' >
+    <!--<IncludeAssemblies>
+      DevExpress.BonusSkins.v16.1
+      DevExpress.Data.v16.1
+      DevExpress.PivotGrid.v16.1.Core
+      DevExpress.Printing.v16.1.Core
+      DevExpress.Sparkline.v16.1.Core
+      DevExpress.Utils.v16.1
+      DevExpress.XtraEditors.v16.1
+      DevExpress.XtraGrid.v16.1
+      DevExpress.XtraLayout.v16.1
+      DevExpress.XtraPivotGrid.v16.1
+      DevExpress.XtraPrinting.v16.1
+      DevExpress.XtraVerticalGrid.v16.1
+      DevExpress.Office.v16.1.Core
+      DevExpress.Pdf.v16.1.Core
+      DevExpress.Pdf.v16.1.Drawing
+      DevExpress.RichEdit.v16.1.Core
+      DevExpress.XtraBars.v16.1
+      DevExpress.XtraTreeList.v16.1
+      Animator
+      Interop.WMPLib
+      Virtuosity
+      WinFormAnimation
+      SmartRocko
+    </IncludeAssemblies>
+    -->
+    <Unmanaged32Assemblies>
+      Interop.WMPLib
+    </Unmanaged32Assemblies>
+    <Unmanaged64Assemblies>
+      Interop.WMPLib
+    </Unmanaged64Assemblies>
+    
+    <!--<PreloadOrder>
+      Interop.WMPLib
+      wmp
+    </PreloadOrder>-->
+  </Costura>
+</Weavers>
